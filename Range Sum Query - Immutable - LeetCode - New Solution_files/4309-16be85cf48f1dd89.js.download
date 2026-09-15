@@ -1,0 +1,1705 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[4309],{14309:(e,t,o)=>{o.d(t,{$Fr:()=>rf,AXo:()=>nG,BIm:()=>eC,BNR:()=>ro,BQd:()=>eU,BZT:()=>n9,BxX:()=>eK,CEB:()=>rc,CWR:()=>tL,E8A:()=>tR,Elb:()=>tA,Elk:()=>nD,Fa1:()=>oD,Hm6:()=>oF,HnI:()=>ej,I89:()=>tP,IP6:()=>oH,Icc:()=>eQ,Ilc:()=>t0,J$G:()=>nY,Jkq:()=>eH,Jwx:()=>nw,K2T:()=>ox,KPb:()=>eP,KxT:()=>tj,L7i:()=>oo,LMU:()=>nH,LXo:()=>tp,LZG:()=>or,LdK:()=>tH,NFG:()=>eG,NJK:()=>rP,NUb:()=>tc,NvX:()=>eM,OPL:()=>rr,OYx:()=>op,OhT:()=>n0,P7z:()=>oz,Pr3:()=>eA,Qf9:()=>tF,QkH:()=>oA,Qmq:()=>rp,Qop:()=>t5,QsZ:()=>rD,RB7:()=>eL,RRD:()=>oL,Rb_:()=>nz,SVV:()=>e6,S_f:()=>eg,TJg:()=>nr,TRL:()=>ew,U98:()=>ey,UCQ:()=>e9,UDL:()=>oS,UYC:()=>t8,UfF:()=>oI,V1V:()=>nu,VBF:()=>ec,ViO:()=>ev,W3g:()=>tf,WuT:()=>t$,X3l:()=>np,XGh:()=>ne,Xay:()=>oj,Y4k:()=>nR,YT2:()=>e7,Ydw:()=>e0,Ye$:()=>rR,Z8y:()=>ow,ZgG:()=>rA,ZyV:()=>ez,Zzj:()=>oe,_4s:()=>ol,_IV:()=>oc,_Vk:()=>eJ,_yr:()=>n8,a$3:()=>nL,aBZ:()=>e_,aBc:()=>tG,aGf:()=>oV,aKU:()=>tb,aYL:()=>eN,alG:()=>nV,am4:()=>o0,anS:()=>ob,aqh:()=>r$,b8m:()=>of,bH9:()=>tY,bWC:()=>eY,bj2:()=>o$,boZ:()=>rb,c38:()=>tI,c3x:()=>e5,cNk:()=>tS,ckT:()=>ek,d2:()=>e2,d2D:()=>rs,d7L:()=>tt,dE$:()=>n$,dFR:()=>eq,dL3:()=>te,deV:()=>e1,dqL:()=>e8,e5O:()=>o9,eA:()=>ns,ebK:()=>nA,g1B:()=>eO,g5X:()=>eI,g9g:()=>rI,gJs:()=>rS,gOW:()=>el,ga8:()=>nj,hRV:()=>tx,hfu:()=>nF,i89:()=>ef,iuC:()=>eT,j45:()=>eE,j8g:()=>ep,jad:()=>o5,jfv:()=>rl,kEk:()=>ou,kgh:()=>no,lH9:()=>re,m8T:()=>o8,mVn:()=>e3,mig:()=>eF,mii:()=>nS,n3m:()=>nc,n_5:()=>eh,oiF:()=>eZ,oxQ:()=>tw,pA8:()=>eD,pLg:()=>oG,pMw:()=>tz,pS6:()=>nf,pUJ:()=>eV,qJU:()=>t9,qRz:()=>ru,qtf:()=>n6,rBT:()=>eb,rPH:()=>eX,rXt:()=>nP,rl2:()=>eB,sOg:()=>nI,t8J:()=>t6,tNu:()=>n5,tXs:()=>ex,tal:()=>ed,uD3:()=>eS,unQ:()=>nl,v8h:()=>rh,vBz:()=>eW,vDW:()=>e$,vlf:()=>tD,x43:()=>eR,xGJ:()=>nx,xje:()=>tV,yIO:()=>em,yNb:()=>e4,yTX:()=>oR,yzd:()=>os,z5Y:()=>oP,zTu:()=>oY,zXu:()=>o6,zaT:()=>nb});var n,r,i,s,a,u,d,l,m,c,g,p,y,I,E,S,T,A,C,R,v,$,k,b,N,f,O,P,U,D,h,L,M,F,B,w,_,x,q,V,K,j,W,H,J,G,Q,Y,X,z,Z,ee,et,eo,en,er,ei,es=o(42252),ea=o(15526);function eu(e,t,o,n){return async()=>e.request({document:t,variables:o,requestHeaders:n})}var ed=((n={}).CompanyListNotAvailable="COMPANY_LIST_NOT_AVAILABLE",n.ListIsPrivate="LIST_IS_PRIVATE",n.NoSuchList="NO_SUCH_LIST",n),el=((r={}).Carousel="CAROUSEL",r.Tiled="TILED",r),em=((i={}).Bug="BUG",i.Incorrect="INCORRECT",i.Recheck="RECHECK",i.Suggestion="SUGGESTION",i),ec=((s={}).Approach="APPROACH",s.CodeStyle="CODE_STYLE",s.Efficiency="EFFICIENCY",s),eg=((a={}).Free="FREE",a.Premium="PREMIUM",a.VideoPremium="VIDEO_PREMIUM",a),ep=((u={}).Checking="CHECKING",u.Deleted="DELETED",u.Draft="DRAFT",u.Muted="MUTED",u.Offline="OFFLINE",u.Pending="PENDING",u.Prepublish="PREPUBLISH",u.Published="PUBLISHED",u.Removed="REMOVED",u.UpdateRequested="UPDATE_REQUESTED",u),ey=((d={}).ThumbsDown="THUMBS_DOWN",d.Upvote="UPVOTE",d),eI=((l={}).NotStarted="NOT_STARTED",l.Ongoing="ONGOING",l.Past="PAST",l),eE=((m={}).LeastSubmit="LEAST_SUBMIT",m.MostSubmit="MOST_SUBMIT",m.NewToOld="NEW_TO_OLD",m),eS=((c={}).Ended="ENDED",c.Ongoing="ONGOING",c.Pending="PENDING",c),eT=((g={}).Other="OTHER",g.Signed="SIGNED",g.Signing="SIGNING",g.Terminated="TERMINATED",g),eA=((p={}).AllStatus="ALL_STATUS",p.Available="AVAILABLE",p.Expired="EXPIRED",p.Used="USED",p),eC=((y={}).Easy="EASY",y.Hard="HARD",y.Medium="MEDIUM",y),eR=((I={}).Other="OTHER",I.Regular="REGULAR",I.Special="SPECIAL",I),ev=((E={}).Bachelor="BACHELOR",E.Doctor="DOCTOR",E.HighSchool="HIGH_SCHOOL",E.Master="MASTER",E.Other="OTHER",E.Profession="PROFESSION",E),e$=((S={}).Bachelor="BACHELOR",S.Doctor="DOCTOR",S.Master="MASTER",S.Other="OTHER",S),ek=((T={}).Article="ARTICLE",T.Community="COMMUNITY",T.CommunityQa="COMMUNITY_QA",T.CommunityTopic="COMMUNITY_TOPIC",T.Leetbook="LEETBOOK",T),eb=((A={}).NoNeedToUnlock="NO_NEED_TO_UNLOCK",A.UserAlreadyUnlocked="USER_ALREADY_UNLOCKED",A.UserCannotUnlock="USER_CANNOT_UNLOCK",A.UserCanUnlock="USER_CAN_UNLOCK",A),eN=((C={}).CompanyFavorite="COMPANY_FAVORITE",C.KnowledgeFavorite="KNOWLEDGE_FAVORITE",C),ef=((R={}).CompanyFavorite="COMPANY_FAVORITE",R.Normal="NORMAL",R.SmartList="SMART_LIST",R),eO=((v={}).Qd="QD",v),eP=(($={}).Is="IS",$.IsNot="IS_NOT",$),eU=((k={}).Female="FEMALE",k.Male="MALE",k.Other="OTHER",k.Private="PRIVATE",k),eD=((b={}).Company="COMPANY",b.Custom="CUSTOM",b.Random="RANDOM",b),eh=((N={}).Campus="CAMPUS",N.Experienced="EXPERIENCED",N.Internship="INTERNSHIP",N),eL=((f={}).Ignored="IGNORED",f.LookAt="LOOK_AT",f.Other="OTHER",f.Preparation="PREPARATION",f),eM=((O={}).Foreign="FOREIGN",O.Internal="INTERNAL",O),eF=((P={}).AnnualMedal="ANNUAL_MEDAL",P.ContestGroupMedal="CONTEST_GROUP_MEDAL",P.DailyQuestionMedal="DAILY_QUESTION_MEDAL",P.LevelMedal="LEVEL_MEDAL",P.Other="OTHER",P.StudyPlanMedal="STUDY_PLAN_MEDAL",P.SubmissionMedal="SUBMISSION_MEDAL",P),eB=((U={}).Email="EMAIL",U.PushNotification="PUSH_NOTIFICATION",U.SiteNotification="SITE_NOTIFICATION",U),ew=((D={}).ActivityOfFollowedQuestions="ACTIVITY_OF_FOLLOWED_QUESTIONS",D.ActivityOfFollowedUsers="ACTIVITY_OF_FOLLOWED_USERS",D.ArticleCommentedOn="ARTICLE_COMMENTED_ON",D.ArticleUpvoted="ARTICLE_UPVOTED",D.CommentReplied="COMMENT_REPLIED",D.CommentUpvoted="COMMENT_UPVOTED",D.ContestAnnouncement="CONTEST_ANNOUNCEMENT",D.FollowedByOthers="FOLLOWED_BY_OTHERS",D.JobRecommendation="JOB_RECOMMENDATION",D.Mentioned="MENTIONED",D.WeeklyEmail="WEEKLY_EMAIL",D),e_=((h={}).Attempted="ATTEMPTED",h.Solved="SOLVED",h.ToDo="TO_DO",h),ex=((L={}).ColumnsReview="COLUMNS_REVIEW",L.ManagementEntry="MANAGEMENT_ENTRY",L),eq=((M={}).NotPremium="NOT_PREMIUM",M.Premium="PREMIUM",M),eV=((F={}).Solved="SOLVED",F.Submission="SUBMISSION",F),eK=((B={}).LastSubmittedAt="LAST_SUBMITTED_AT",B.NumSubmitted="NUM_SUBMITTED",B.QuestionFrontendId="QUESTION_FRONTEND_ID",B),ej=((w={}).Attempted="ATTEMPTED",w.Solved="SOLVED",w),eW=((_={}).Ckeditor="CKEDITOR",_.Markdown="MARKDOWN",_),eH=((x={}).All="ALL",x.Any="ANY",x),eJ=((q={}).AcRate="AC_RATE",q.ContestPoint="CONTEST_POINT",q.Custom="CUSTOM",q.Difficulty="DIFFICULTY",q.Frequency="FREQUENCY",q.FrontendId="FRONTEND_ID",q.LastSubmittedTime="LAST_SUBMITTED_TIME",q.SearchScore="SEARCH_SCORE",q),eG=((V={}).Awesome="AWESOME",V.Confused="CONFUSED",V.Heart="HEART",V.ThumbsDown="THUMBS_DOWN",V.Upvote="UPVOTE",V),eQ=((K={}).Abuse="ABUSE",K.Advertising="ADVERTISING",K.All="ALL",K.Fake="FAKE",K.Illegal="ILLEGAL",K.NonEnglish="NON_ENGLISH",K.Other="OTHER",K.Politics="POLITICS",K.Sexual="SEXUAL",K.Terrorism="TERRORISM",K.Violent="VIOLENT",K),eY=((j={}).Advantage="ADVANTAGE",j.Basic="BASIC",j.Edu="EDU",j.Intention="INTENTION",j.Project="PROJECT",j.Skill="SKILL",j.WorkExperience="WORK_EXPERIENCE",j),eX=((W={}).Bachelor="BACHELOR",W.Doctor="DOCTOR",W.HighSchool="HIGH_SCHOOL",W.JuniorHighSchool="JUNIOR_HIGH_SCHOOL",W.Master="MASTER",W.Mba="MBA",W.Other="OTHER",W.Profession="PROFESSION",W.TechnicalSecondary="TECHNICAL_SECONDARY",W),ez=((H={}).FileResume="FILE_RESUME",H.OnlineResume="ONLINE_RESUME",H),eZ=((J={}).Ascending="ASCENDING",J.Descending="DESCENDING",J),e0=((G={}).Ascending="ASCENDING",G.Descending="DESCENDING",G),e2=((Q={}).Approved="APPROVED",Q.Pending="PENDING",Q.Rejected="REJECTED",Q),e8=((Y={}).Error="ERROR",Y.Finished="FINISHED",Y.InProgress="IN_PROGRESS",Y.Pending="PENDING",Y),e3=((X={}).Ac="AC",X.Ce="CE",X.Ie="IE",X.Mle="MLE",X.Ole="OLE",X.Re="RE",X.Rf="RF",X.Tle="TLE",X.To="TO",X.Wa="WA",X),e9=((z={}).AdditionalTopic="ADDITIONAL_TOPIC",z.Company="COMPANY",z.Language="LANGUAGE",z.Topic="TOPIC",z),e4=((Z={}).Advanced="ADVANCED",Z.Beginner="BEGINNER",Z.Expert="EXPERT",Z.Intermediate="INTERMEDIATE",Z),e5=((ee={}).All="ALL",ee.Interview="INTERVIEW",ee.Study="STUDY",ee),e1=((et={}).Default="DEFAULT",et.NewLeetbookUserConflict="NEW_LEETBOOK_USER_CONFLICT",et.NewPremiumConflict="NEW_PREMIUM_CONFLICT",et),e6=((eo={}).Female="FEMALE",eo.Male="MALE",eo.Other="OTHER",eo),e7=((en={}).Other="OTHER",en.Professional="PROFESSIONAL",en.Student="STUDENT",en),te=((er={}).StudentCard="STUDENT_CARD",er.TeacherCard="TEACHER_CARD",er),tt=((ei={}).Approved="APPROVED",ei.Pending="PENDING",ei.Rejected="REJECTED",ei.TranscodeFailed="TRANSCODE_FAILED",ei.Transcoding="TRANSCODING",ei);let to=`
+    fragment resume on ResumeNode {
+  uploadedAt
+  fileUrl
+  uuid
+  originFileName
+}
+    `,tn=`
+    fragment contentAuthor on ArticleAuthor {
+  username
+  userSlug
+  realName
+  avatar
+}
+    `,tr=`
+    fragment realAuthor on UserNode {
+  username
+  profile {
+    userSlug
+    realName
+    userAvatar
+  }
+}
+    `,ti=`
+    fragment qaQuestion on QAQuestionNode {
+  ipRegion
+  uuid
+  slug
+  title
+  thumbnail
+  summary
+  content
+  slateValue
+  sunk
+  pinned
+  pinnedGlobally
+  byLeetcode
+  isRecommended
+  isRecommendedGlobally
+  subscribed
+  hitCount
+  numAnswers
+  numPeopleInvolved
+  numSubscribed
+  createdAt
+  updatedAt
+  status
+  identifier
+  resourceType
+  articleType
+  alwaysShow
+  alwaysExpand
+  score
+  favoriteCount
+  isMyFavorite
+  isAnonymous
+  canEdit
+  reactionType
+  atQuestionTitleSlug
+  blockComments
+  reactionsV2 {
+    count
+    reactionType
+  }
+  tags {
+    name
+    nameTranslated
+    slug
+    imgUrl
+    tagType
+  }
+  subject {
+    slug
+    title
+  }
+  contentAuthor {
+    ...contentAuthor
+  }
+  realAuthor {
+    ...realAuthor
+  }
+}
+    ${tn}
+${tr}`,ts=`
+    fragment userCoupon on UserCouponNode {
+  id
+  code
+  startAt
+  expiredAt
+  coupon {
+    id
+    name
+    event
+    minExpense
+    value
+    description
+  }
+}
+    `,ta=`
+    fragment solutionArticle on SolutionArticleNode {
+  ipRegion
+  rewardEnabled
+  canEditReward
+  uuid
+  title
+  content
+  slateValue
+  slug
+  sunk
+  chargeType
+  status
+  identifier
+  canEdit
+  canSee
+  reactionType
+  reactionsV2 {
+    count
+    reactionType
+  }
+  tags {
+    name
+    nameTranslated
+    slug
+    tagType
+  }
+  createdAt
+  thumbnail
+  author {
+    username
+    certificationLevel
+    isDiscussAdmin
+    isDiscussStaff
+    profile {
+      userAvatar
+      userSlug
+      realName
+      reputation
+    }
+  }
+  summary
+  topic {
+    id
+    subscribed
+    commentCount
+    viewCount
+    post {
+      id
+      status
+      voteStatus
+      isOwnPost
+    }
+  }
+  byLeetcode
+  isMyFavorite
+  isMostPopular
+  favoriteCount
+  isEditorsPick
+  hitCount
+  videosInfo {
+    videoId
+    coverUrl
+    duration
+  }
+  question {
+    titleSlug
+    questionFrontendId
+  }
+}
+    `,tu=`
+    fragment leetbookBriefNode on LeetbookBriefBookNode {
+  id
+  slug
+  title
+  coverImg
+  description
+  ownedType
+  isFavorite
+  totalStudied
+  visibility
+  author {
+    realName
+    title
+    bio
+    avatar
+    userSlug
+  }
+  chapterNum
+  pageNum
+  premiumOnlyPageNum
+  progress {
+    numCompleted
+    numCompletedPremium
+    accessedAt
+  }
+  productInfo {
+    allowBorrow
+    premiumOnly
+    product {
+      id
+      slug
+      price
+      hasPremiumPrice
+      premiumPrice
+      discounts {
+        id
+        availableAfter
+        availableBefore
+        price
+      }
+    }
+  }
+  forSaleAt
+  lastNewPageForSaleAt
+  commonTags {
+    nameTranslated
+    name
+    slug
+  }
+}
+    `,td=`
+    fragment commentFields on CommentRelayNode {
+  id
+  ipRegion
+  numChildren
+  isEdited
+  pinned
+  post {
+    id
+    content
+    voteUpCount
+    creationDate
+    updationDate
+    status
+    voteStatus
+    isOwnPost
+    anonymous
+    author {
+      username
+      isDiscussAdmin
+      isDiscussStaff
+      profile {
+        userSlug
+        userAvatar
+        realName
+        certificationLevel
+      }
+    }
+    realAuthor {
+      username
+      isDiscussAdmin
+      isDiscussStaff
+      profile {
+        userSlug
+        userAvatar
+        realName
+        certificationLevel
+      }
+    }
+    mentionedUsers {
+      key
+      username
+      userSlug
+      nickName
+    }
+  }
+}
+    `,tl=`
+    fragment medalNodeFragment on MedalNodeV2 {
+  slug
+  name
+  obtainDate
+  category
+  config {
+    icon
+    iconGif
+    iconGifBackground
+  }
+  progress
+  id
+  year
+  month
+}
+    `,tm=`
+    query advertisementAdsByPage($pageSlug: String!, $customType: AdCustomTypeEnum, $customId: ID) {
+  advertisementAdsByPage(
+    pageSlug: $pageSlug
+    customType: $customType
+    customId: $customId
+  ) {
+    ads {
+      ... on AdvertisementItemNode {
+        name
+        title
+        image
+        link
+        pinned
+        isTagShown
+        subtitle
+        extraInfo
+        baiduWidth
+        baiduHeight
+        baiduAdId
+        baiduAdHide
+      }
+    }
+    position {
+      name
+      nameSlug
+      displayStyle
+    }
+  }
+}
+    `,tc=(e,t,o,n)=>(0,es.I)(["advertisementAdsByPage",t],eu(e,tm,t,n),o);tc.getKey=e=>["advertisementAdsByPage",e];let tg=`
+    query commonHotCities($lang: String!, $locationType: LocationTypeEnum) {
+  commonHotCities(lang: $lang, locationType: $locationType) {
+    city
+    country
+    province
+  }
+}
+    `,tp=(e,t,o,n)=>(0,es.I)(["commonHotCities",t],eu(e,tg,t,n),o);tp.getKey=e=>["commonHotCities",e];let ty=`
+    query commonJobCategories($lang: String!) {
+  commonJobCategories(lang: $lang) {
+    id
+    name
+  }
+}
+    `,tI=(e,t,o,n)=>(0,es.I)(["commonJobCategories",t],eu(e,ty,t,n),o);tI.getKey=e=>["commonJobCategories",e];let tE=`
+    query commonJobItems($lang: String!, $categoryId: ID!) {
+  commonJobItems(lang: $lang, categoryId: $categoryId) {
+    id
+    name
+    category {
+      id
+      name
+    }
+  }
+}
+    `,tS=(e,t,o,n)=>(0,es.I)(["commonJobItems",t],eu(e,tE,t,n),o);tS.getKey=e=>["commonJobItems",e];let tT=`
+    query companyInterviewCard($companySlug: String!) {
+  interviewCard(companySlug: $companySlug) {
+    id
+    isFavorite
+    isPremiumOnly
+    privilegeExpiresAt
+    jobsCompany {
+      name
+      jobPostingNum
+      isVerified
+      description
+      logo
+      logoPath
+      postingTypeCounts {
+        count
+        postingType
+      }
+      industryDisplay
+      scaleDisplay
+      financingStageDisplay
+      website
+      legalName
+    }
+  }
+}
+    `,tA=(e,t,o,n)=>(0,es.I)(["companyInterviewCard",t],eu(e,tT,t,n),o);tA.getKey=e=>["companyInterviewCard",e];let tC=`
+    mutation interviewStart($id: ID!) {
+  interviewStart(cardId: $id) {
+    created
+    startedSession {
+      status
+    }
+  }
+}
+    `,tR=(e,t,o)=>(0,ea.n)(["interviewStart"],t=>eu(e,tC,t,o)(),t),tv=`
+    query userUuid {
+  user {
+    profile {
+      uuid
+    }
+  }
+}
+    `,t$=(e,t,o,n)=>(0,es.I)(void 0===t?["userUuid"]:["userUuid",t],eu(e,tv,t,n),o);t$.getKey=e=>void 0===e?["userUuid"]:["userUuid",e];let tk=`
+    query todayRecord {
+  todayRecord {
+    userStatus
+    comboTimes
+  }
+}
+    `,tb=(e,t,o,n)=>(0,es.I)(void 0===t?["todayRecord"]:["todayRecord",t],eu(e,tk,t,n),o);tb.getKey=e=>void 0===e?["todayRecord"]:["todayRecord",e];let tN=`
+    query feature {
+  feature {
+    questionTranslation
+    subscription
+    signUp
+    discuss
+    mockInterview
+    contest
+    store
+    book
+    chinaProblemDiscuss
+    socialProviders
+    studentFooter
+    cnJobs
+    interview
+    enableLsp
+    enableWs
+    enableDebugger
+    enableDebuggerAdmin
+    enableDarkMode
+    tasks
+    leetbook
+    enableEduDiscount
+  }
+}
+    `,tf=(e,t,o,n)=>(0,es.I)(void 0===t?["feature"]:["feature",t],eu(e,tN,t,n),o);tf.getKey=e=>void 0===e?["feature"]:["feature",e];let tO=`
+    mutation applyForAJobV2($jobId: ID!, $resumeType: ResumeOriginTypeEnum!, $fileUrl: String, $fileName: String, $email: String, $phone: String, $userRealName: String, $countryCode: String, $overrideProfileResume: Boolean) {
+  __typename
+  applyForAJobV2(
+    data: {jobId: $jobId, resumeType: $resumeType, fileUrl: $fileUrl, fileName: $fileName, email: $email, countryCode: $countryCode, overrideProfileResume: $overrideProfileResume, phone: $phone, userRealName: $userRealName}
+  ) {
+    ok
+    errors
+    application {
+      email
+      graduationTime
+      id
+    }
+  }
+}
+    `,tP=(e,t,o)=>(0,ea.n)(["applyForAJobV2"],t=>eu(e,tO,t,o)(),t),tU=`
+    mutation jobsIncreaseBrowse($uuid: UUID!) {
+  jobsIncreaseBrowse(uuid: $uuid) {
+    ok
+  }
+}
+    `,tD=(e,t,o)=>(0,ea.n)(["jobsIncreaseBrowse"],t=>eu(e,tU,t,o)(),t),th=`
+    query jobsOfficialPostingDetail($uuid: UUID!) {
+  detail: jobsOfficialPostingDetail(uuid: $uuid) {
+    advertisement {
+      image
+      isTagShown
+      name
+      link
+      pinned
+      title
+    }
+    category {
+      canBeFiltered
+      canBeSelected
+      id
+      name
+      order
+      subCategories {
+        id
+        name
+        order
+      }
+    }
+    chinaCity
+    chinaCityDisplay
+    chinaProvinceDisplay
+    companyCardFavCount
+    companyCardId
+    companyCardIsFavorite
+    companyLogo
+    companyName
+    companySlug
+    description
+    displayTags {
+      displayType
+      imgUrl
+      link
+      title
+    }
+    educationDisplay
+    emails
+    financingStageDisplay
+    hasApplied
+    hasApplyQualification
+    industryDisplay
+    isHot
+    isRecommended
+    jobTags {
+      idHash
+      name
+      slug
+    }
+    legalName
+    location
+    modified
+    postingType
+    publishedAt
+    salaryDetailDisplay
+    salaryDisplay
+    salaryMax
+    salaryMin
+    salaryMonth
+    salaryNegotiable
+    scaleDisplay
+    shortlists {
+      config
+      expiresAt
+      name
+      slug
+    }
+    status
+    subCategory {
+      id
+      name
+      order
+    }
+    title
+    uuid
+    website
+    workExperienceDisplay
+  }
+}
+    `,tL=(e,t,o,n)=>(0,es.I)(["jobsOfficialPostingDetail",t],eu(e,th,t,n),o);tL.getKey=e=>["jobsOfficialPostingDetail",e];let tM=`
+    query resumeUserResumes {
+  resumeUserResumes {
+    ...resume
+  }
+}
+    ${to}`,tF=(e,t,o,n)=>(0,es.I)(void 0===t?["resumeUserResumes"]:["resumeUserResumes",t],eu(e,tM,t,n),o);tF.getKey=e=>void 0===e?["resumeUserResumes"]:["resumeUserResumes",e];let tB=`
+    query userProfileOnlineResumeInfo {
+  userProfileOnlineResumeInfo {
+    completed
+    email
+    phone {
+      countryCode
+      phone
+    }
+    realName
+  }
+}
+    `,tw=(e,t,o,n)=>(0,es.I)(void 0===t?["userProfileOnlineResumeInfo"]:["userProfileOnlineResumeInfo",t],eu(e,tB,t,n),o);tw.getKey=e=>void 0===e?["userProfileOnlineResumeInfo"]:["userProfileOnlineResumeInfo",e];let t_=`
+    mutation cancelOrderPayment($orderId: String!, $userToken: String!) {
+  cancelOrder(orderId: $orderId, userToken: $userToken) {
+    ok
+  }
+}
+    `,tx=(e,t,o)=>(0,ea.n)(["cancelOrderPayment"],t=>eu(e,t_,t,o)(),t),tq=`
+    mutation createOrder($data: CreateOrderAndPayInput!, $token: String!) {
+  createOrderAndPay(data: $data, userToken: $token) {
+    ok
+    error
+    orderId
+    chargeId
+    credential
+    chargeJsonObject
+    isPaid
+  }
+}
+    `,tV=(e,t,o)=>(0,ea.n)(["createOrder"],t=>eu(e,tq,t,o)(),t),tK=`
+    query orderStatus($orderId: ID!) {
+  orderPaid(orderId: $orderId)
+}
+    `,tj=(e,t,o,n)=>(0,es.I)(["orderStatus",t],eu(e,tK,t,n),o);tj.getKey=e=>["orderStatus",e];let tW=`
+    query paymentUserStatus($token: String!) {
+  userStatusByToken(userToken: $token) {
+    profile {
+      username
+      profile {
+        realName
+        userAvatar
+        userSlug
+      }
+    }
+    userId
+    isPremium
+    premiumExpiredAt
+    premiumCreatedAt
+  }
+}
+    `,tH=(e,t,o,n)=>(0,es.I)(["paymentUserStatus",t],eu(e,tW,t,n),o);tH.getKey=e=>["paymentUserStatus",e];let tJ=`
+    query paymentUserToken {
+  myTokens {
+    paymentUserToken
+  }
+}
+    `,tG=(e,t,o,n)=>(0,es.I)(void 0===t?["paymentUserToken"]:["paymentUserToken",t],eu(e,tJ,t,n),o);tG.getKey=e=>void 0===e?["paymentUserToken"]:["paymentUserToken",e];let tQ=`
+    query unpaidOrderByUserTokenAndProducts($productIdList: [ID]!, $userToken: String) {
+  unpaidOrderByUserAndProduct(
+    productIdList: $productIdList
+    userToken: $userToken
+  ) {
+    id
+    subject
+    totalPrice
+  }
+}
+    `,tY=(e,t,o,n)=>(0,es.I)(["unpaidOrderByUserTokenAndProducts",t],eu(e,tQ,t,n),o);tY.getKey=e=>["unpaidOrderByUserTokenAndProducts",e];let tX=`
+    mutation cancelPremiumSubscription($contractId: String!, $userToken: String) {
+  subscriptionRescind(contractId: $contractId, userToken: $userToken) {
+    ok
+  }
+}
+    `,tz=(e,t,o)=>(0,ea.n)(["cancelPremiumSubscription"],t=>eu(e,tX,t,o)(),t),tZ=`
+    mutation eduApplyVerification($data: EduApplyVerificationInput!, $id: ID) {
+  eduApplyVerification(data: $data, id: $id) {
+    ok
+  }
+}
+    `,t0=(e,t,o)=>(0,ea.n)(["eduApplyVerification"],t=>eu(e,tZ,t,o)(),t),t2=`
+    query eduVerificationResult($userToken: String) {
+  eduVerificationResult(userToken: $userToken) {
+    id
+    studentName
+    schoolId
+    schoolName
+    province
+    education
+    enrolledAt
+    graduateTime
+    studentNumber
+    materialType
+    materials
+    appliedAt
+    expiredAt
+    rejectReason
+    reviewStatus
+    premiumExpiredAt
+    topEducation
+    isPurchased
+  }
+}
+    `,t8=(e,t,o,n)=>(0,es.I)(void 0===t?["eduVerificationResult"]:["eduVerificationResult",t],eu(e,t2,t,n),o);t8.getKey=e=>void 0===e?["eduVerificationResult"]:["eduVerificationResult",e];let t3=`
+    query allCoupons($statusType: CouponStatusType!, $userToken: String) {
+  userCoupons(statusType: $statusType, userToken: $userToken) {
+    ...userCoupon
+  }
+}
+    ${ts}`,t9=(e,t,o,n)=>(0,es.I)(["allCoupons",t],eu(e,t3,t,n),o);t9.getKey=e=>["allCoupons",e];let t4=`
+    query couponsByProducts($productIds: [ID]!, $userToken: String) {
+  userCouponsByProducts(productIds: $productIds, userToken: $userToken) {
+    productId
+    userCoupons {
+      ...userCoupon
+    }
+  }
+}
+    ${ts}`,t5=(e,t,o,n)=>(0,es.I)(["couponsByProducts",t],eu(e,t4,t,n),o);t5.getKey=e=>["couponsByProducts",e];let t1=`
+    query mySubscription($userToken: String) {
+  subscriptionMySignedContract(userToken: $userToken) {
+    id
+    plan {
+      id
+      details {
+        cycleDesc
+        endCycle
+        fromCycle
+        price
+        startCycle
+      }
+    }
+    signChannel
+    signedAt
+    terminatedAt
+    signExpiredTime
+    status
+    performTimes
+    nextCyclePrice
+  }
+}
+    `,t6=(e,t,o,n)=>(0,es.I)(void 0===t?["mySubscription"]:["mySubscription",t],eu(e,t1,t,n),o);t6.getKey=e=>void 0===e?["mySubscription"]:["mySubscription",e];let t7=`
+    mutation subscriptionGenerateSignToken($planId: String!, $signWay: String!, $sourceId: String, $sourceType: String, $userToken: String) {
+  subscriptionGenerateSignToken(
+    planId: $planId
+    signWay: $signWay
+    sourceId: $sourceId
+    sourceType: $sourceType
+    userToken: $userToken
+  ) {
+    signToken
+    expiredAt
+  }
+}
+    `,oe=(e,t,o)=>(0,ea.n)(["subscriptionGenerateSignToken"],t=>eu(e,t7,t,o)(),t),ot=`
+    query wechatOpenId($code: ID!) {
+  wechatAccessTokenInfo(code: $code) {
+    openid
+  }
+}
+    `,oo=(e,t,o,n)=>(0,es.I)(["wechatOpenId",t],eu(e,ot,t,n),o);oo.getKey=e=>["wechatOpenId",e];let on=`
+    query problemsForMention($filters: QuestionListFilterInput) {
+  problems: problemsetQuestionList(filters: $filters) {
+    questions {
+      frontendQuestionId
+      title
+      titleCn
+      titleSlug
+      difficulty
+    }
+  }
+}
+    `,or=(e,t,o,n)=>(0,es.I)(void 0===t?["problemsForMention"]:["problemsForMention",t],eu(e,on,t,n),o);or.getKey=e=>void 0===e?["problemsForMention"]:["problemsForMention",e];let oi=`
+    mutation resumeAddResume($fileUrl: String!, $initAllowRecommended: Boolean!, $originFileName: String!) {
+  resumeAddResume(
+    fileUrl: $fileUrl
+    initAllowRecommended: $initAllowRecommended
+    originFileName: $originFileName
+  ) {
+    resume {
+      ...resume
+    }
+  }
+}
+    ${to}`,os=(e,t,o)=>(0,ea.n)(["resumeAddResume"],t=>eu(e,oi,t,o)(),t),oa=`
+    mutation resumeAddEducationRecord($addedu: ResumeAddEducationRecordInput!) {
+  resumeAddEducationRecord(data: $addedu) {
+    ok
+  }
+}
+    `,ou=(e,t,o)=>(0,ea.n)(["resumeAddEducationRecord"],t=>eu(e,oa,t,o)(),t),od=`
+    mutation resumeAddJobIntention($newIntention: ResumeAddJobIntentionInput!) {
+  resumeAddJobIntention(data: $newIntention) {
+    ok
+  }
+}
+    `,ol=(e,t,o)=>(0,ea.n)(["resumeAddJobIntention"],t=>eu(e,od,t,o)(),t),om=`
+    mutation resumeAddProjectExperience($addproj: ResumeAddProjectExperienceInput!) {
+  resumeAddProjectExperience(data: $addproj) {
+    ok
+  }
+}
+    `,oc=(e,t,o)=>(0,ea.n)(["resumeAddProjectExperience"],t=>eu(e,om,t,o)(),t),og=`
+    mutation resumeAddWorkExperience($workexp: ResumeAddWorkExperienceInput!) {
+  resumeAddWorkExperience(data: $workexp) {
+    ok
+  }
+}
+    `,op=(e,t,o)=>(0,ea.n)(["resumeAddWorkExperience"],t=>eu(e,og,t,o)(),t),oy=`
+    mutation resumeDeleteResume($uuid: ID!) {
+  resumeDeleteResume(uuid: $uuid) {
+    ok
+  }
+}
+    `,oI=(e,t,o)=>(0,ea.n)(["resumeDeleteResume"],t=>eu(e,oy,t,o)(),t),oE=`
+    mutation resumeDeleteEducationRecord($recordId: ID!) {
+  resumeDeleteEducationRecord(recordId: $recordId) {
+    ok
+  }
+}
+    `,oS=(e,t,o)=>(0,ea.n)(["resumeDeleteEducationRecord"],t=>eu(e,oE,t,o)(),t),oT=`
+    mutation resumeDeleteJobIntention($recordId: ID!) {
+  resumeDeleteJobIntention(recordId: $recordId) {
+    ok
+  }
+}
+    `,oA=(e,t,o)=>(0,ea.n)(["resumeDeleteJobIntention"],t=>eu(e,oT,t,o)(),t),oC=`
+    mutation resumeDeleteProjectExperience($recordId: ID!) {
+  resumeDeleteProjectExperience(recordId: $recordId) {
+    ok
+  }
+}
+    `,oR=(e,t,o)=>(0,ea.n)(["resumeDeleteProjectExperience"],t=>eu(e,oC,t,o)(),t),ov=`
+    mutation resumeDeleteUserAvatar {
+  resumeDeleteUserAvatar {
+    ok
+  }
+}
+    `,o$=(e,t,o)=>(0,ea.n)(["resumeDeleteUserAvatar"],t=>eu(e,ov,t,o)(),t),ok=`
+    mutation resumeDeleteWorkExperience($experienceId: ID!) {
+  resumeDeleteWorkExperience(experienceId: $experienceId) {
+    ok
+  }
+}
+    `,ob=(e,t,o)=>(0,ea.n)(["resumeDeleteWorkExperience"],t=>eu(e,ok,t,o)(),t),oN=`
+    mutation resumeSetAcceptTelecommuting($acceptTelecommuting: Boolean!) {
+  resumeSetAcceptTelecommuting(acceptTelecommuting: $acceptTelecommuting) {
+    ok
+  }
+}
+    `,of=(e,t,o)=>(0,ea.n)(["resumeSetAcceptTelecommuting"],t=>eu(e,oN,t,o)(),t),oO=`
+    mutation resumeUpdateUserAdvantage($editAdg: ResumeUpdateUserAdvantageInput!) {
+  resumeUpdateUserAdvantage(data: $editAdg) {
+    ok
+  }
+}
+    `,oP=(e,t,o)=>(0,ea.n)(["resumeUpdateUserAdvantage"],t=>eu(e,oO,t,o)(),t),oU=`
+    mutation resumeUpdateAllowRecommended($allowRecommended: Boolean!) {
+  resumeUpdateAllowRecommended(allowRecommended: $allowRecommended) {
+    allowRecommended
+  }
+}
+    `,oD=(e,t,o)=>(0,ea.n)(["resumeUpdateAllowRecommended"],t=>eu(e,oU,t,o)(),t),oh=`
+    mutation resumeUpdateBasicInfo($basicInfo: ResumeUpdateBasicInfoInput!) {
+  resumeUpdateBasicInfo(data: $basicInfo) {
+    ok
+  }
+}
+    `,oL=(e,t,o)=>(0,ea.n)(["resumeUpdateBasicInfo"],t=>eu(e,oh,t,o)(),t),oM=`
+    mutation resumeCompleteIntention($intention: ResumeDataEnum!) {
+  resumeCompleteIntention(intention: $intention) {
+    ok
+  }
+}
+    `,oF=(e,t,o)=>(0,ea.n)(["resumeCompleteIntention"],t=>eu(e,oM,t,o)(),t),oB=`
+    mutation resumeEditEducationRecord($editedu: ResumeEditEducationRecordInput!) {
+  resumeEditEducationRecord(data: $editedu) {
+    ok
+  }
+}
+    `,ow=(e,t,o)=>(0,ea.n)(["resumeEditEducationRecord"],t=>eu(e,oB,t,o)(),t),o_=`
+    mutation resumeSetEmptyWorkExperience {
+  resumeSetEmptyWorkExperience {
+    ok
+  }
+}
+    `,ox=(e,t,o)=>(0,ea.n)(["resumeSetEmptyWorkExperience"],t=>eu(e,o_,t,o)(),t),oq=`
+    mutation resumeUpdateJobIntention($updIntention: ResumeUpdateJobIntentionInput!) {
+  resumeUpdateJobIntention(data: $updIntention) {
+    ok
+  }
+}
+    `,oV=(e,t,o)=>(0,ea.n)(["resumeUpdateJobIntention"],t=>eu(e,oq,t,o)(),t),oK=`
+    mutation resumeEditProjectExperience($editproj: ResumeEditProjectExperienceInput!) {
+  resumeEditProjectExperience(data: $editproj) {
+    ok
+  }
+}
+    `,oj=(e,t,o)=>(0,ea.n)(["resumeEditProjectExperience"],t=>eu(e,oK,t,o)(),t),oW=`
+    mutation resumeUpdateUserSkillTags($skillTagNames: [String!]!) {
+  resumeUpdateUserSkillTags(skillTagNames: $skillTagNames) {
+    ok
+  }
+}
+    `,oH=(e,t,o)=>(0,ea.n)(["resumeUpdateUserSkillTags"],t=>eu(e,oW,t,o)(),t),oJ=`
+    mutation resumeUpdateUserAvatar($avatar: String!) {
+  resumeUpdateUserAvatar(avatar: $avatar) {
+    ok
+  }
+}
+    `,oG=(e,t,o)=>(0,ea.n)(["resumeUpdateUserAvatar"],t=>eu(e,oJ,t,o)(),t),oQ=`
+    mutation resumeEditWorkExperience($editExp: ResumeEditWorkExperienceInput!) {
+  resumeEditWorkExperience(data: $editExp) {
+    ok
+  }
+}
+    `,oY=(e,t,o)=>(0,ea.n)(["resumeEditWorkExperience"],t=>eu(e,oQ,t,o)(),t),oX=`
+    query resumeAllowRecommended {
+  resumeAllowRecommended
+}
+    `,oz=(e,t,o,n)=>(0,es.I)(void 0===t?["resumeAllowRecommended"]:["resumeAllowRecommended",t],eu(e,oX,t,n),o);oz.getKey=e=>void 0===e?["resumeAllowRecommended"]:["resumeAllowRecommended",e];let oZ=`
+    query resumeUserEduInfo {
+  resumeUserEduInfo {
+    eduHistory {
+      description
+      id
+      school {
+        id
+        name
+        logo
+      }
+      major {
+        id
+        name
+      }
+      admission
+      joinedAt
+      graduationDate
+      degree
+    }
+  }
+}
+    `,o0=(e,t,o,n)=>(0,es.I)(void 0===t?["resumeUserEduInfo"]:["resumeUserEduInfo",t],eu(e,oZ,t,n),o);o0.getKey=e=>void 0===e?["resumeUserEduInfo"]:["resumeUserEduInfo",e];let o2=`
+    query resumeUserInfo {
+  resumeUserInfo {
+    useDefaultAvatar
+    aboutMe
+    skillTags
+    user {
+      userSlug
+      userAvatar
+      realName
+    }
+    urls
+    email
+    countryCode
+    phone
+    gender
+    github
+    realName
+    birthday
+    location {
+      country
+      province
+      city
+      overseasCity
+    }
+    workedAt
+    notWorking
+    occupation
+    jobSeekingStatus
+    acceptTelecommuting
+  }
+}
+    `,o8=(e,t,o,n)=>(0,es.I)(void 0===t?["resumeUserInfo"]:["resumeUserInfo",t],eu(e,o2,t,n),o);o8.getKey=e=>void 0===e?["resumeUserInfo"]:["resumeUserInfo",e];let o3=`
+    query resumeUserJobIntentions {
+  resumeUserJobIntentions {
+    intentions {
+      id
+      salaryMin
+      salaryMax
+      salaryCoefficient
+      location {
+        city
+        country
+        province
+        overseasCity
+      }
+      job {
+        id
+        name
+      }
+    }
+    jobSeekingStatus
+    acceptTelecommuting
+    occupation
+  }
+}
+    `,o9=(e,t,o,n)=>(0,es.I)(void 0===t?["resumeUserJobIntentions"]:["resumeUserJobIntentions",t],eu(e,o3,t,n),o);o9.getKey=e=>void 0===e?["resumeUserJobIntentions"]:["resumeUserJobIntentions",e];let o4=`
+    query resumeUserProjectExperience {
+  resumeUserProjectExperience {
+    user {
+      userSlug
+      userAvatar
+      realName
+    }
+    projects {
+      id
+      urls
+      name
+      isInternship
+      toPresent
+      description
+      endedAt
+      startedAt
+      orgName
+    }
+  }
+}
+    `,o5=(e,t,o,n)=>(0,es.I)(void 0===t?["resumeUserProjectExperience"]:["resumeUserProjectExperience",t],eu(e,o4,t,n),o);o5.getKey=e=>void 0===e?["resumeUserProjectExperience"]:["resumeUserProjectExperience",e];let o1=`
+    query resumeUserStats {
+  resumeUserStats {
+    completedPercent
+    completedTasks
+  }
+}
+    `,o6=(e,t,o,n)=>(0,es.I)(void 0===t?["resumeUserStats"]:["resumeUserStats",t],eu(e,o1,t,n),o);o6.getKey=e=>void 0===e?["resumeUserStats"]:["resumeUserStats",e];let o7=`
+    query resumeUserWorkExperience {
+  resumeUserWorkExperience {
+    workExperiences {
+      description
+      id
+      job {
+        name
+        id
+      }
+      company {
+        id
+        name
+        logo
+      }
+      endedAt
+      joinedAt
+      toPresent
+      isInternship
+    }
+  }
+}
+    `,ne=(e,t,o,n)=>(0,es.I)(void 0===t?["resumeUserWorkExperience"]:["resumeUserWorkExperience",t],eu(e,o7,t,n),o);ne.getKey=e=>void 0===e?["resumeUserWorkExperience"]:["resumeUserWorkExperience",e];let nt=`
+    query contestDetailPage($contestSlug: String!) {
+  contestDetailPage(contestSlug: $contestSlug) {
+    startTime
+    duration
+    titleSlug
+    title
+    titleCn
+    description
+    descriptionCn
+    descriptionStyle
+    discussUrl
+    cardImg
+    cardImgApp
+    isVirtual
+    isRegistered
+    isRegisteredTwice
+    registerUserNum
+  }
+}
+    `,no=(e,t,o,n)=>(0,es.I)(["contestDetailPage",t],eu(e,nt,t,n),o);no.getKey=e=>["contestDetailPage",e];let nn=`
+    mutation contestReplySurvey($answer: JSONString!, $answerForCsv: JSONString!, $contestSlug: String!, $surveyId: ID!) {
+  contestReplySurvey(
+    answer: $answer
+    answerForCsv: $answerForCsv
+    contestSlug: $contestSlug
+    surveyId: $surveyId
+  ) {
+    ok
+  }
+}
+    `,nr=(e,t,o)=>(0,ea.n)(["contestReplySurvey"],t=>eu(e,nn,t,o)(),t),ni=`
+    query contestV2OngoingVirtualContest {
+  contestV2OngoingVirtualContest {
+    contest {
+      titleSlug
+      title
+    }
+    startTime
+    finishTime
+    score
+  }
+}
+    `,ns=(e,t,o,n)=>(0,es.I)(void 0===t?["contestV2OngoingVirtualContest"]:["contestV2OngoingVirtualContest",t],eu(e,ni,t,n),o);ns.getKey=e=>void 0===e?["contestV2OngoingVirtualContest"]:["contestV2OngoingVirtualContest",e];let na=`
+    query contestV2TopLocalRankings {
+  contestV2TopLocalRankings {
+    userProfile {
+      realName
+      userSlug
+      avatarUrl
+      countryCode
+    }
+    currentRating
+    currentGlobalRanking
+    attendedContestCount
+    dataRegion
+    medal {
+      name
+      icon
+    }
+  }
+}
+    `,nu=(e,t,o,n)=>(0,es.I)(void 0===t?["contestV2TopLocalRankings"]:["contestV2TopLocalRankings",t],eu(e,na,t,n),o);nu.getKey=e=>void 0===e?["contestV2TopLocalRankings"]:["contestV2TopLocalRankings",e];let nd=`
+    mutation managementAddOrEditContest($id: ID, $data: ManagementAddOrEditContestInput!) {
+  managementAddOrEditContest(id: $id, data: $data) {
+    ok
+  }
+}
+    `,nl=(e,t,o)=>(0,ea.n)(["managementAddOrEditContest"],t=>eu(e,nd,t,o)(),t),nm=`
+    query managementContestAdminLogs($contestId: Int!, $limit: Int!, $skip: Int!) {
+  managementContestAdminLogs(contestId: $contestId, limit: $limit, skip: $skip) {
+    operationType
+    operateUserName
+    createdAt
+  }
+}
+    `,nc=(e,t,o,n)=>(0,es.I)(["managementContestAdminLogs",t],eu(e,nm,t,n),o);nc.getKey=e=>["managementContestAdminLogs",e];let ng=`
+    query companies($search: String!) {
+  commonTags(query: $search, tagType: COMPANY) {
+    id
+    imgUrl
+    name
+    slug
+    nameTranslated
+    numSubscribed
+    subscribed
+  }
+}
+    `,np=(e,t,o,n)=>(0,es.I)(["companies",t],eu(e,ng,t,n),o);np.getKey=e=>["companies",e];let ny=`
+    mutation userProfileDeleteUserAvatar {
+  userProfileDeleteUserAvatar {
+    ok
+  }
+}
+    `,nI=(e,t,o)=>(0,ea.n)(["userProfileDeleteUserAvatar"],t=>eu(e,ny,t,o)(),t),nE=`
+    query commonSearchedJobs($search: String!, $lang: String) {
+  commonSearchedJobs(keyword: $search, lang: $lang) {
+    id
+    name
+  }
+}
+    `,nS=(e,t,o,n)=>(0,es.I)(["commonSearchedJobs",t],eu(e,nE,t,n),o);nS.getKey=e=>["commonSearchedJobs",e];let nT=`
+    query commonSearchedMajors($search: String!, $lang: String) {
+  commonSearchedMajors(keyword: $search, lang: $lang) {
+    id
+    name
+  }
+}
+    `,nA=(e,t,o,n)=>(0,es.I)(["commonSearchedMajors",t],eu(e,nT,t,n),o);nA.getKey=e=>["commonSearchedMajors",e];let nC=`
+    query schoolSearchByName($search: String!) {
+  schoolSearchByName(schoolName: $search) {
+    id
+    schoolId
+    name
+    logo
+  }
+}
+    `,nR=(e,t,o,n)=>(0,es.I)(["schoolSearchByName",t],eu(e,nC,t,n),o);nR.getKey=e=>["schoolSearchByName",e];let nv=`
+    query calendarSubmitRecord {
+  calendarSubmitRecord {
+    dailySubmitStreakCount
+    dailyQuestionStreakCount
+    monthlyAcCount
+  }
+}
+    `,n$=(e,t,o,n)=>(0,es.I)(void 0===t?["calendarSubmitRecord"]:["calendarSubmitRecord",t],eu(e,nv,t,n),o);n$.getKey=e=>void 0===e?["calendarSubmitRecord"]:["calendarSubmitRecord",e];let nk=`
+    query homePageFeeds($channelId: Int, $nextPage: Int, $offset: Int) {
+  homeFeedProblems(channelId: $channelId, offset: $offset) {
+    contentType
+    offset
+    problemSlug
+    problemTitle
+    recommendationReason
+    solutions {
+      authorAvatarUrl
+      authorName
+      authorSlug
+      slug
+      summary
+      title
+      id
+    }
+  }
+  homeFeedCompanies(channelId: $channelId, nextPage: $nextPage) {
+    nextPage
+    contentType
+    companies {
+      name
+      slug
+      logoUrl
+      popularity
+      trending
+    }
+  }
+}
+    `,nb=(e,t,o,n)=>(0,es.I)(void 0===t?["homePageFeeds"]:["homePageFeeds",t],eu(e,nk,t,n),o);nb.getKey=e=>void 0===e?["homePageFeeds"]:["homePageFeeds",e];let nN=`
+    mutation qaAddFavQuestion($uuid: ID!) {
+  qaAddFavQuestion(questionId: $uuid) {
+    ok
+  }
+}
+    `,nf=(e,t,o)=>(0,ea.n)(["qaAddFavQuestion"],t=>eu(e,nN,t,o)(),t),nO=`
+    mutation qaAddQuestionReaction($articleId: ID!, $reactionType: ReactionTypeEnum!) {
+  columnsAddReaction(articleId: $articleId, reactionType: $reactionType) {
+    ok
+    article {
+      ... on QAQuestionNode {
+        uuid
+        reactionType
+        reactionsV2 {
+          reactionType
+          count
+        }
+      }
+    }
+  }
+}
+    `,nP=(e,t,o)=>(0,ea.n)(["qaAddQuestionReaction"],t=>eu(e,nO,t,o)(),t),nU=`
+    mutation qaRemoveFavQuestion($uuid: ID!) {
+  qaRemoveFavQuestion(questionId: $uuid) {
+    ok
+  }
+}
+    `,nD=(e,t,o)=>(0,ea.n)(["qaRemoveFavQuestion"],t=>eu(e,nU,t,o)(),t),nh=`
+    mutation qaRemoveQuestionReaction($articleId: ID!) {
+  columnsRemoveReaction(articleId: $articleId) {
+    ok
+    article {
+      ... on QAQuestionNode {
+        uuid
+        reactionType
+        reactionsV2 {
+          reactionType
+          count
+        }
+      }
+    }
+  }
+}
+    `,nL=(e,t,o)=>(0,ea.n)(["qaRemoveQuestionReaction"],t=>eu(e,nh,t,o)(),t),nM=`
+    query leetbookAdsSubjectBooks {
+  leetbookAdsSubjectBooks {
+    id
+    slug
+    title
+    coverImg
+    description
+    totalStudied
+    recommendation
+    author {
+      title
+      bio
+      realName
+      avatar
+      userSlug
+    }
+    chapterNum
+    pageNum
+    progress {
+      numCompleted
+      numCompletedPremium
+      accessedAt
+    }
+    productInfo {
+      premiumOnly
+      allowBorrow
+      product {
+        id
+        slug
+        price
+        premiumPrice
+        discounts {
+          id
+          availableAfter
+          availableBefore
+          price
+        }
+      }
+    }
+    forSaleAt
+    lastNewPageForSaleAt
+    ownedType
+    commonTags {
+      nameTranslated
+      name
+      slug
+    }
+  }
+}
+    `,nF=(e,t,o,n)=>(0,es.I)(void 0===t?["leetbookAdsSubjectBooks"]:["leetbookAdsSubjectBooks",t],eu(e,nM,t,n),o);nF.getKey=e=>void 0===e?["leetbookAdsSubjectBooks"]:["leetbookAdsSubjectBooks",e];let nB=`
+    query leetbookCategories {
+  leetbookCategories {
+    id
+    name
+    subcategories {
+      bookIds
+      id
+      name
+    }
+  }
+}
+    `,nw=(e,t,o,n)=>(0,es.I)(void 0===t?["leetbookCategories"]:["leetbookCategories",t],eu(e,nB,t,n),o);nw.getKey=e=>void 0===e?["leetbookCategories"]:["leetbookCategories",e];let n_=`
+    query leetbookContinuousReadingDays {
+  leetbookContinuousReadingDays
+}
+    `,nx=(e,t,o,n)=>(0,es.I)(void 0===t?["leetbookContinuousReadingDays"]:["leetbookContinuousReadingDays",t],eu(e,n_,t,n),o);nx.getKey=e=>void 0===e?["leetbookContinuousReadingDays"]:["leetbookContinuousReadingDays",e];let nq=`
+    query leetbookLastReadBook {
+  leetbookLastReadBook {
+    ...leetbookBriefNode
+  }
+}
+    ${tu}`,nV=(e,t,o,n)=>(0,es.I)(void 0===t?["leetbookLastReadBook"]:["leetbookLastReadBook",t],eu(e,nq,t,n),o);nV.getKey=e=>void 0===e?["leetbookLastReadBook"]:["leetbookLastReadBook",e];let nK=`
+    query leetbookOwnedBooks($orderBy: OwnedBookOrderByFieldEnum, $page: Int, $pageSize: Int) {
+  leetbookOwnedBooks(orderBy: $orderBy, page: $page, pageSize: $pageSize) {
+    pageInfo {
+      total
+    }
+    data {
+      book {
+        ...leetbookBriefNode
+      }
+    }
+  }
+}
+    ${tu}`,nj=(e,t,o,n)=>(0,es.I)(void 0===t?["leetbookOwnedBooks"]:["leetbookOwnedBooks",t],eu(e,nK,t,n),o);nj.getKey=e=>void 0===e?["leetbookOwnedBooks"]:["leetbookOwnedBooks",e];let nW=`
+    query leetbookProgressDetail($bookSlug: String!) {
+  leetbookProgressDetail(bookSlug: $bookSlug) {
+    pageProgressList {
+      pageId
+      accessedAt
+    }
+  }
+}
+    `,nH=(e,t,o,n)=>(0,es.I)(["leetbookProgressDetail",t],eu(e,nW,t,n),o);nH.getKey=e=>["leetbookProgressDetail",e];let nJ=`
+    mutation contestEnterpriseWrittenExamBrowse($id: String!) {
+  contestEnterpriseWrittenExamBrowse(id: $id) {
+    ok
+  }
+}
+    `,nG=(e,t,o)=>(0,ea.n)(["contestEnterpriseWrittenExamBrowse"],t=>eu(e,nJ,t,o)(),t),nQ=`
+    mutation contestEnterpriseWrittenExamSubscription($id: String!) {
+  contestEnterpriseWrittenExamSubscription(id: $id) {
+    ok
+  }
+}
+    `,nY=(e,t,o)=>(0,ea.n)(["contestEnterpriseWrittenExamSubscription"],t=>eu(e,nQ,t,o)(),t),nX=`
+    mutation contestEnterpriseWrittenExamRegister($contestSlug: String!, $userInfo: JSONString!, $resumeUrl: String, $fileName: String) {
+  contestEnterpriseWrittenExamRegister(
+    contestSlug: $contestSlug
+    userInfo: $userInfo
+    resumeUrl: $resumeUrl
+    fileName: $fileName
+  ) {
+    ok
+  }
+}
+    `,nz=(e,t,o)=>(0,ea.n)(["contestEnterpriseWrittenExamRegister"],t=>eu(e,nX,t,o)(),t),nZ=`
+    mutation jobsSendPromotionSmsCode($countryCode: String!, $phone: String!) {
+  jobsSendPromotionSmsCode(countryCode: $countryCode, phone: $phone) {
+    ok
+  }
+}
+    `,n0=(e,t,o)=>(0,ea.n)(["jobsSendPromotionSmsCode"],t=>eu(e,nZ,t,o)(),t),n2=`
+    query allSchoolInfoUrl {
+  allSchoolInfoUrl
+}
+    `,n8=(e,t,o,n)=>(0,es.I)(void 0===t?["allSchoolInfoUrl"]:["allSchoolInfoUrl",t],eu(e,n2,t,n),o);n8.getKey=e=>void 0===e?["allSchoolInfoUrl"]:["allSchoolInfoUrl",e];let n3=`
+    query contestWrittenExamResult($contestSlug: String!) {
+  contestWrittenExamResult(contestSlug: $contestSlug) {
+    defeatRate
+    finishTime
+    score
+    timePenalty
+    isFinish
+  }
+}
+    `,n9=(e,t,o,n)=>(0,es.I)(["contestWrittenExamResult",t],eu(e,n3,t,n),o);n9.getKey=e=>["contestWrittenExamResult",e];let n4=`
+    query contestEnterpriseWrittenExam($contestSlug: String!) {
+  contestEnterpriseWrittenExam(contestSlug: $contestSlug) {
+    title
+    startTime
+    duration
+    registered
+    company {
+      name
+      description
+      website
+      logo
+      id
+      jobsSlug
+      watermark
+    }
+    examLink
+    description
+    codeQuestionNum
+    quizQuestionNum
+    totalScore
+    status
+    writtenExamId
+  }
+}
+    `,n5=(e,t,o,n)=>(0,es.I)(["contestEnterpriseWrittenExam",t],eu(e,n4,t,n),o);n5.getKey=e=>["contestEnterpriseWrittenExam",e];let n1=`
+    query simpleJobPostings($companySlug: String, $skip: Int, $first: Int, $showExpired: Boolean, $postingType: JobPostingTypeEnum) {
+  jobPostings(
+    companySlug: $companySlug
+    showExpired: $showExpired
+    skip: $skip
+    first: $first
+    postingType: $postingType
+  ) {
+    totalNum
+    edges {
+      node {
+        id
+        title
+        salaryMin
+        salaryMax
+        salaryNegotiable
+        educationDisplay
+        workExperienceDisplay
+        chinaCityDisplay
+      }
+    }
+  }
+}
+    `,n6=(e,t,o,n)=>(0,es.I)(void 0===t?["simpleJobPostings"]:["simpleJobPostings",t],eu(e,n1,t,n),o);n6.getKey=e=>void 0===e?["simpleJobPostings"]:["simpleJobPostings",e];let n7=`
+    query favoriteDetailV2($favoriteSlug: String!) {
+  favoriteDetailV2(favoriteSlug: $favoriteSlug) {
+    coverUrl
+    coverEmoji
+    coverBackgroundColor
+    description
+    creator {
+      realName
+      userAvatar
+      userSlug
+    }
+    hasCurrentQuestion
+    isPublicFavorite
+    lastQuestionAddedAt
+    name
+    questionNumber
+    slug
+    isDefaultList
+    favoriteType
+    lastModified: lastQuestionAddedAt
+    languageTagSlug
+    filtersInfo
+    sortByInfo
+    visibleFilters
+    collectCount
+    questType
+    questUnitIcon
+    questUnitColor
+    questIsPremium
+    questIsUnlocked
+    questSlug
+  }
+}
+    `,re=(e,t,o,n)=>(0,es.I)(["favoriteDetailV2",t],eu(e,n7,t,n),o);re.getKey=e=>["favoriteDetailV2",e];let rt=`
+    query isMyCollectedFavorite($favoriteSlug: String!) {
+  isMyCollectedFavorite(favoriteSlug: $favoriteSlug)
+}
+    `,ro=(e,t,o,n)=>(0,es.I)(["isMyCollectedFavorite",t],eu(e,rt,t,n),o);ro.getKey=e=>["isMyCollectedFavorite",e];let rn=`
+    query myFavoriteList {
+  myCreatedFavoriteList {
+    favorites {
+      coverUrl
+      coverEmoji
+      coverBackgroundColor
+      hasCurrentQuestion
+      isPublicFavorite
+      lastQuestionAddedAt
+      name
+      slug
+      favoriteType
+    }
+    hasMore
+    totalLength
+  }
+  myCollectedFavoriteList {
+    hasMore
+    totalLength
+    favorites {
+      coverUrl
+      coverEmoji
+      coverBackgroundColor
+      hasCurrentQuestion
+      isPublicFavorite
+      name
+      slug
+      lastQuestionAddedAt
+      favoriteType
+    }
+  }
+}
+    `,rr=(e,t,o,n)=>(0,es.I)(void 0===t?["myFavoriteList"]:["myFavoriteList",t],eu(e,rn,t,n),o);rr.getKey=e=>void 0===e?["myFavoriteList"]:["myFavoriteList",e];let ri=`
+    query submissionAnalysisUsesLeft {
+  submissionAnalysisUsesLeft
+}
+    `,rs=(e,t,o,n)=>(0,es.I)(void 0===t?["submissionAnalysisUsesLeft"]:["submissionAnalysisUsesLeft",t],eu(e,ri,t,n),o);rs.getKey=e=>void 0===e?["submissionAnalysisUsesLeft"]:["submissionAnalysisUsesLeft",e];let ra=`
+    query questionTopicTags {
+  questionTopicTags {
+    edges {
+      node {
+        id
+        name
+        slug
+        translatedName
+        questionIds
+      }
+    }
+  }
+}
+    `,ru=(e,t,o,n)=>(0,es.I)(void 0===t?["questionTopicTags"]:["questionTopicTags",t],eu(e,ra,t,n),o);ru.getKey=e=>void 0===e?["questionTopicTags"]:["questionTopicTags",e];let rd=`
+    query userProfilePendants($slugs: [String]!) {
+  userProfileUserPendants(userSlugs: $slugs) {
+    config {
+      iconWearing
+    }
+    id
+    category
+    name
+  }
+  userProfileUserColors(userSlugs: $slugs)
+}
+    `,rl=(e,t,o,n)=>(0,es.I)(["userProfilePendants",t],eu(e,rd,t,n),o);rl.getKey=e=>["userProfilePendants",e];let rm=`
+    query userProfilePhone {
+  user {
+    countryCode
+    phone
+  }
+}
+    `,rc=(e,t,o,n)=>(0,es.I)(void 0===t?["userProfilePhone"]:["userProfilePhone",t],eu(e,rm,t,n),o);rc.getKey=e=>void 0===e?["userProfilePhone"]:["userProfilePhone",e];let rg=`
+    query userProfilePublicProfile($userSlug: String!) {
+  userProfilePublicProfile(userSlug: $userSlug) {
+    haveFollowed
+    siteRanking
+    profile {
+      userSlug
+      realName
+      aboutMe
+      asciiCode
+      userAvatar
+      gender
+      websites
+      skillTags
+      ipRegion
+      birthday
+      location
+      useDefaultAvatar
+      certificationLevel
+      github
+      hideFollowers
+      hideFollowing
+      school: schoolV2 {
+        schoolId
+        logo
+        name
+      }
+      company: companyV2 {
+        id
+        logo
+        name
+      }
+      job
+      globalLocation {
+        country
+        province
+        city
+        overseasCity
+      }
+      socialAccounts {
+        provider
+        profileUrl
+      }
+      skillSet {
+        langLevels {
+          langName
+          langVerboseName
+          level
+        }
+        topics {
+          slug
+          name
+          translatedName
+        }
+        topicAreaScores {
+          score
+          topicArea {
+            name
+            slug
+          }
+        }
+      }
+    }
+    educationRecordListV2 {
+      id
+      startTime
+      endTime
+      toPresent
+      degree
+      school {
+        id
+        name
+      }
+    }
+    occupationRecordListV2 {
+      id
+      company {
+        id
+        name
+        nameTranslated
+      }
+      position {
+        id
+        name
+        nameTranslated
+      }
+      startTime
+      endTime
+      toPresent
+    }
+  }
+}
+    `,rp=(e,t,o,n)=>(0,es.I)(["userProfilePublicProfile",t],eu(e,rg,t,n),o);rp.getKey=e=>["userProfilePublicProfile",e];let ry=`
+    mutation authCheckPassword($password: String!) {
+  authCheckPassword(password: $password) {
+    ok
+    verificationToken
+    error
+  }
+}
+    `,rI=(e,t,o)=>(0,ea.n)(["authCheckPassword"],t=>eu(e,ry,t,o)(),t),rE=`
+    query profileSettings($userSlug: String!) {
+  userProfilePublicProfile(userSlug: $userSlug) {
+    profile {
+      realName
+      aboutMe
+      gender
+      skillTags
+      birthday
+      globalLocation {
+        country
+        province
+        city
+        overseasCity
+      }
+    }
+    educationRecordListV2 {
+      id
+      startTime
+      endTime
+      toPresent
+      degree
+      school {
+        id
+        name
+      }
+    }
+    occupationRecordListV2 {
+      id
+      company {
+        id
+        name
+        nameTranslated
+      }
+      position {
+        id
+        name
+        nameTranslated
+      }
+      startTime
+      endTime
+      toPresent
+    }
+  }
+}
+    `,rS=(e,t,o,n)=>(0,es.I)(["profileSettings",t],eu(e,rE,t,n),o);rS.getKey=e=>["profileSettings",e];let rT=`
+    mutation setVisibleOnPlanRank($hideOnBoard: Boolean!) {
+  setVisibleOnPlanRank(hideOnBoard: $hideOnBoard) {
+    ok
+  }
+}
+    `,rA=(e,t,o)=>(0,ea.n)(["setVisibleOnPlanRank"],t=>eu(e,rT,t,o)(),t),rC=`
+    query userCoupons($statusType: CouponStatusType!) {
+  userCoupons(statusType: $statusType) {
+    id
+    coupon {
+      id
+      value
+      minExpense
+      name
+      description
+      url
+    }
+    startAt
+    expiredAt
+    expiredReason
+    used
+  }
+}
+    `,rR=(e,t,o,n)=>(0,es.I)(["userCoupons",t],eu(e,rC,t,n),o);rR.getKey=e=>["userCoupons",e];let rv=`
+    mutation managementAddOrEditContestSurvey($id: ID, $data: ManagementAddOrEditContestSurveyInput!) {
+  managementAddOrEditContestSurvey(id: $id, data: $data) {
+    ok
+  }
+}
+    `,r$=(e,t,o)=>(0,ea.n)(["managementAddOrEditContestSurvey"],t=>eu(e,rv,t,o)(),t),rk=`
+    query managementAllContestSurveys($allData: managementAllContestSurveysInput!) {
+  managementAllContestSurveys(data: $allData) {
+    id
+    title
+    company {
+      id
+      name
+      nameTranslated
+    }
+    questionConfigs
+    submitCount
+    validStart
+    validEnd
+    createdAt
+    modifiedAt
+    skipContent
+    submitContent
+  }
+}
+    `,rb=(e,t,o,n)=>(0,es.I)(["managementAllContestSurveys",t],eu(e,rk,t,n),o);rb.getKey=e=>["managementAllContestSurveys",e];let rN=`
+    query managementContestSurvey($surveyId: Int!) {
+  managementContestSurvey(surveyId: $surveyId) {
+    id
+    title
+    company {
+      id
+      name
+      nameTranslated
+    }
+    questionConfigs
+    submitCount
+    validStart
+    validEnd
+    createdAt
+    modifiedAt
+    skipContent
+    submitContent
+  }
+}
+    `,rf=(e,t,o,n)=>(0,es.I)(["managementContestSurvey",t],eu(e,rN,t,n),o);rf.getKey=e=>["managementContestSurvey",e];let rO=`
+    query managementContestSurveyAdminLogs($limit: Int!, $skip: Int!, $surveyId: Int!) {
+  managementContestSurveyAdminLogs(
+    limit: $limit
+    skip: $skip
+    surveyId: $surveyId
+  ) {
+    operationType
+    operateUserName
+    createdAt
+  }
+}
+    `,rP=(e,t,o,n)=>(0,es.I)(["managementContestSurveyAdminLogs",t],eu(e,rO,t,n),o);rP.getKey=e=>["managementContestSurveyAdminLogs",e];let rU=`
+    mutation managementExportContestSurveyAnswers($surveyId: ID!) {
+  managementExportContestSurveyAnswers(surveyId: $surveyId) {
+    taskId
+  }
+}
+    `,rD=(e,t,o)=>(0,ea.n)(["managementExportContestSurveyAnswers"],t=>eu(e,rU,t,o)(),t),rh=`
+    mutation hitResource($entityId: ID!, $entityType: EntityType!) {
+  hitResource(entityId: $entityId, entityType: $entityType) {
+    ok
+    error
+  }
+}
+    `}}]);
